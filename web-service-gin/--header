@@ -1,0 +1,33 @@
+[
+    {
+        "id": "1",
+        "title": "Interstellar",
+        "artist": "Hans Zimmer",
+        "premier": 10.2014,
+        "time_added": "0001-01-01T00:00:00Z"
+    },
+    {
+        "id": "2",
+        "title": "Building Light",
+        "artist": "Anne Sophie Versnaeyen",
+        "premier": 2018,
+        "time_added": "0001-01-01T00:00:00Z"
+    },
+    {
+        "id": "3",
+        "title": "Zen",
+        "artist": "Torin Borrowdale",
+        "premier": 3.2018,
+        "time_added": "0001-01-01T00:00:00Z"
+    },
+    {
+        "id": "4",
+        "title": "Married Life",
+        "artist": "Jason Lyle Black",
+        "premier": 10.2015,
+        "time_added": "0001-01-01T00:00:00Z"
+    }
+]--_curl_--"id":"5"
+--_curl_-- "title":"Les rues de Paris"
+--_curl_-- "artist":"Nicolas Godin"
+--_curl_-- "premier":""
